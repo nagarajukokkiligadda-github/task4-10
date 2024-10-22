@@ -1,0 +1,11 @@
+@media (max-width: 800px) {
+    h2 {
+      color: blue;
+    }
+  }
+  
+  @media (min-width: 801px) {
+    h2 {
+      color: green;
+    }
+  }
